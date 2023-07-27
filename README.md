@@ -6,13 +6,6 @@
 后端采用go微服务架构，
 使用k8s+docker在云端进行部署。
 
-## 项目亮点
-* Google架构师亲授地道的Google设计理念
-* 敏捷式开发工程化实践
-* 领域驱动设计前沿理念
-* Go+Typescript稀缺双语式教学
-* 贴合企业级工程化部署：k8s+docker助你上云
-
 ## 如何使用
 1. `git clone https:/github.com/Shenchangxin/CoolCar.git`
 1. `cd coolcar`进入项目目录。
